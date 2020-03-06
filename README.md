@@ -5,7 +5,7 @@ In this React Native tutorial, we are going to learn how to create Login and Use
 
 
 ## Start the React Native Firebase Authentication App
-* `git clone repo name`
+* `git clone https://github.com/SinghDigamber/rnFirebaseAuth.git`
 * `cd rnFirebaseAuth`
 * `npm install`
 * Enter your Firebase credentials in database > firebase.js
